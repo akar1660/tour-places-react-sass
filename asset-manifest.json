@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tour-places-react-sass/static/css/main.31d9a0f0.css",
-    "main.js": "/tour-places-react-sass/static/js/main.2f8b5ad4.js",
-    "static/js/787.6c3fad03.chunk.js": "/tour-places-react-sass/static/js/787.6c3fad03.chunk.js",
-    "index.html": "/tour-places-react-sass/index.html",
-    "main.31d9a0f0.css.map": "/tour-places-react-sass/static/css/main.31d9a0f0.css.map",
-    "main.2f8b5ad4.js.map": "/tour-places-react-sass/static/js/main.2f8b5ad4.js.map",
-    "787.6c3fad03.chunk.js.map": "/tour-places-react-sass/static/js/787.6c3fad03.chunk.js.map"
+    "main.css": "/solution/static/css/main.31d9a0f0.css",
+    "main.js": "/solution/static/js/main.b6c505ea.js",
+    "static/js/787.6c3fad03.chunk.js": "/solution/static/js/787.6c3fad03.chunk.js",
+    "index.html": "/solution/index.html",
+    "main.31d9a0f0.css.map": "/solution/static/css/main.31d9a0f0.css.map",
+    "main.b6c505ea.js.map": "/solution/static/js/main.b6c505ea.js.map",
+    "787.6c3fad03.chunk.js.map": "/solution/static/js/787.6c3fad03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d9a0f0.css",
-    "static/js/main.2f8b5ad4.js"
+    "static/js/main.b6c505ea.js"
   ]
 }
